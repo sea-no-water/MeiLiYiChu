@@ -51,5 +51,5 @@ GIF图片
 ```html
 <img src = "ml_jingxuan.png" width = "160" height = "250" align = center>
 ```
-
-<img src = "ml_jingxuan.png" width = "160" height = "250" align = center
+<br>
+<img src = "ml_jingxuan.png" width = "160" height = "250" align = center>
