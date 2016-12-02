@@ -25,7 +25,7 @@ MeiLiYiChu（仿美丽衣橱）
 GIF图片
 ------------
 
-![GIF图片](meiliyichu.gif)
+![GIF图片](meiliyichu.gif =160x250)
 
 首页
 ------------
