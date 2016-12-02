@@ -8,17 +8,17 @@ MeiLiYiChu（仿美丽衣橱）
 ============
 
 ###<div align = center>Autor:Haven</div>
-###<div align = center>E-mail:HavenMailBox@163.com</div>(欢迎骚扰)
+###<div align = center>E-mail:HavenMailBox@163.com(欢迎骚扰)</div>
 
 ============
 
 ##目录
 
-*[GIF图片](#GIF图片)
-*[首页](#首页)
-*[9块9界面](#9块9界面)
-*[精选界面](#精选界面)
-*[我的界面](#我的界面)
+* [GIF图片](#GIF图片)
+* [首页](#首页)
+* [9块9界面](#9块9界面)
+* [精选界面](#精选界面)
+* [我的界面](#我的界面)
 
 ============
 
