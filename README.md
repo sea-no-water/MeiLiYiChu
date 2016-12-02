@@ -25,27 +25,27 @@ MeiLiYiChu（仿美丽衣橱）
 GIF图片
 ------------
 
-![GIF图片](meiliyichu.gif  “GIF图片”)
+![GIF图片](meiliyichu.gif)
 
 首页
 ------------
 
-![首页](ml_shouye.png “首页”)
+![首页](ml_shouye.png)
 
 9块9界面
 ------------
 
-![9块9界面](ml_9k9.png “9块9界面”)
+![9块9界面](ml_9k9.png)
 
 精选界面
 ------------
 
-![精选界面](ml_jingxuan “精选界面”)
+![精选界面](ml_jingxuan.png)
 
 我的界面
 ------------
 
-![我的界面](ml_wode “我的界面”)
+![我的界面](ml_wode.png)
 
 
 
