@@ -46,5 +46,9 @@ GIF图片
 ------------
 
 ![我的界面](ml_wode.png)
+     
+    小图片展示
+     
+```<img src = "ml_jingxuan.png" width = "160" height = "250" align = center>```
 
-<img src = "ml_jingxuan.png" width = "160" height = "250" align = center>
+<img src = "ml_jingxuan.png" width = "160" height = "250" align = center
